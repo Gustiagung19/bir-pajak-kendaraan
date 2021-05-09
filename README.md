@@ -7,7 +7,7 @@ Pajak Kendaraan
 -----------------------------------------------------------
 
 Discord :
-+ (https://discord.gg/9zsfGF8ASe)
+[![Developer Discord](https://discordapp.com/api/guilds/834066337117765694/widget.png?style=banner4)](https://discord.com/invite/9zsfGF8ASe)
 
 -----------------------------------------------------------
 
